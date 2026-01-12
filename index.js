@@ -1,1 +1,3 @@
-console.log("ola mundo");
+let nome = "Victor" 
+
+console.log(nome);
